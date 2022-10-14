@@ -1,0 +1,43 @@
+    <div class="u-nav-container  u-sticky" style="background-color: black; text-align: center;">
+      <ul class="u-nav u-spacing-30 u-unstyled u-nav-1">
+        <!-- <li class="u-nav-item"><a
+            class="u-border-2 u-border-active-palette-1-light-2 u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-light-2 u-text-body-alt-color u-text-hover-palette-1-light-2"
+            href="Home.html" style="
+            padding: 10px 0px;
+            color:white;
+
+            ">Notary Bio</a>
+        </li> -->
+        <li class="nav-item dropdown u-nav-item">
+          <a class="nav-link dropdown-toggle u-border-2 u-border-active-palette-1-light-2 u-border-hover-paletteh-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-light-2 u-text-body-alt-color u-text-hover-palette-1-light-2"
+            href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+            aria-expanded="false">
+            Services
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li>
+              <hr class="dropdown-divider">
+            </li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="u-nav-item"><a
+            class="u-border-2 u-border-active-palette-1-light-2 u-border-hover-paletteh-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-light-2 u-text-body-alt-color u-text-hover-palette-1-light-2"
+            href="Home.html" style="padding: 10px 0px;border-color: #e6ce77!important;">Reviews</a>
+        </li>
+        <li class="u-nav-item"><a
+            class="u-border-2 u-border-active-palette-1-light-2 u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-light-2 u-text-body-alt-color u-text-hover-palette-1-light-2"
+            href="Notary-Fees-main/index.html" style="padding: 10px 0px;">Notary fees</a>
+        </li>
+        <li class="u-nav-item"><a
+            class="u-border-2 u-border-active-palette-1-light-2 u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-light-2 u-text-body-alt-color u-text-hover-palette-1-light-2"
+            href="#myservices" style="padding: 10px 0px;">Schedule Now</a>
+        </li>
+        <li class="u-nav-item"><a
+            class="u-border-2 u-border-active-palette-1-light-2 u-border-hover-palette-1-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-1-light-2 u-text-body-alt-color u-text-hover-palette-1-light-2"
+            href="Notary-Contact-main/index.html" style="padding: 10px 0px;">Contact</a>
+        </li>
+      </ul>
+    </div>
