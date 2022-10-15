@@ -145,6 +145,7 @@ h6 {
 */
 .navbar {
   padding: 0;
+  /* background-color: white; */
 }
 
 .navbar ul {
@@ -273,6 +274,10 @@ h6 {
 
   .navbar ul {
     display: none;
+  }
+
+  .navbar{
+    background-color: white;
   }
 }
 
