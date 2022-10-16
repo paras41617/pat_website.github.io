@@ -8,8 +8,11 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,700&display=swap');
+
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Lato', sans-serif;
   color: #444444;
 }
 
@@ -29,8 +32,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Jost", sans-serif;
-}
+  font-family: 'Lato', sans-serif;}
 
 
 
@@ -420,8 +422,7 @@ h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Jost", sans-serif;
-  font-weight: 500;
+  font-family: 'Lato', sans-serif;  font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
@@ -647,8 +648,7 @@ section {
 }
 
 .about .content .btn-learn-more {
-  font-family: "Poppins", sans-serif;
-  font-weight: 500;
+  font-family: 'Lato', sans-serif;  font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
   display: inline-block;
@@ -721,8 +721,7 @@ section {
 .why-us .accordion-list a {
   display: block;
   position: relative;
-  font-family: "Poppins", sans-serif;
-  font-size: 16px;
+  font-family: 'Lato', sans-serif;  font-size: 16px;
   line-height: 24px;
   font-weight: 500;
   padding-right: 30px;
@@ -805,8 +804,7 @@ section {
   font-weight: 700;
   font-size: 32px;
   color: #37517e;
-  font-family: "Poppins", sans-serif;
-}
+  font-family: 'Lato', sans-serif;}
 
 .skills .content ul {
   list-style: none;
@@ -840,8 +838,7 @@ section {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  color: #37517e;
+  font-family: 'Lato', sans-serif;  color: #37517e;
 }
 
 .skills .progress .skill .val {
@@ -926,8 +923,7 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Jost", sans-serif;
-  font-weight: 500;
+font-family: 'Lato', sans-serif;  font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
@@ -977,8 +973,7 @@ section {
   transition: all 0.3s;
   padding: 8px 20px;
   border-radius: 50px;
-  font-family: "Poppins", sans-serif;
-}
+  font-family: 'Lato', sans-serif;}
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
@@ -1248,8 +1243,7 @@ section {
   font-size: 48px;
   color: #37517e;
   font-weight: 400;
-  font-family: "Jost", sans-serif;
-  margin-bottom: 25px;
+  font-family: 'Lato', sans-serif;  margin-bottom: 25px;
 }
 
 .pricing h4 sup {
@@ -1312,8 +1306,7 @@ section {
   transition: none;
   font-size: 16px;
   font-weight: 500;
-  font-family: "Jost", sans-serif;
-  transition: 0.3s;
+  font-family: 'Lato', sans-serif;  transition: 0.3s;
   border: 1px solid white;
   background: black;
   color: #fff;
