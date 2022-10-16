@@ -46,6 +46,7 @@ p{
 .contact-form {
   background-color: whitesmoke;
   position: relative;
+  color: #e6ce77;
 }
 
 .circle {
@@ -216,10 +217,10 @@ textarea.input {
   position: relative;
   background-color: #e6ce77;
 }
-li {
+/* li {
   background: whitesmoke;
   margin-bottom: 10px;
-}
+} */
 
 .contact-info .title {
   color: white;
