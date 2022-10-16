@@ -492,6 +492,7 @@ section {
 .section-bg {
   padding: 120px 0;
   color: #fff;
+  background-color: #1a1a1a;
 }
 
 .section-bg:before {
