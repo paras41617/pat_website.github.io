@@ -12,7 +12,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,700&display=swap');
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato Regular', sans-serif;
   color: #444444;
 }
 
@@ -32,7 +32,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lato', sans-serif;}
+  font-family: 'Lato Regular', sans-serif;}
 
 
 
@@ -422,7 +422,7 @@ h6 {
 }
 
 #hero .btn-get-started {
-  font-family: 'Lato', sans-serif;  font-weight: 500;
+  font-family: 'Lato Regular', sans-serif;  font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
@@ -648,7 +648,7 @@ section {
 }
 
 .about .content .btn-learn-more {
-  font-family: 'Lato', sans-serif;  font-weight: 500;
+  font-family: 'Lato Regular', sans-serif;  font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
   display: inline-block;
@@ -721,7 +721,7 @@ section {
 .why-us .accordion-list a {
   display: block;
   position: relative;
-  font-family: 'Lato', sans-serif;  font-size: 16px;
+  font-family: 'Lato Regular', sans-serif;  font-size: 16px;
   line-height: 24px;
   font-weight: 500;
   padding-right: 30px;
@@ -804,7 +804,7 @@ section {
   font-weight: 700;
   font-size: 32px;
   color: #37517e;
-  font-family: 'Lato', sans-serif;}
+  font-family: 'Lato Regular', sans-serif;}
 
 .skills .content ul {
   list-style: none;
@@ -838,7 +838,7 @@ section {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
-  font-family: 'Lato', sans-serif;  color: #37517e;
+  font-family: 'Lato Regular', sans-serif;  color: #37517e;
 }
 
 .skills .progress .skill .val {
@@ -923,7 +923,7 @@ section {
 }
 
 .cta .cta-btn {
-font-family: 'Lato', sans-serif;  font-weight: 500;
+font-family: 'Lato Regular', sans-serif;  font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
@@ -973,7 +973,7 @@ font-family: 'Lato', sans-serif;  font-weight: 500;
   transition: all 0.3s;
   padding: 8px 20px;
   border-radius: 50px;
-  font-family: 'Lato', sans-serif;}
+  font-family: 'Lato Regular', sans-serif;}
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
@@ -1243,7 +1243,7 @@ font-family: 'Lato', sans-serif;  font-weight: 500;
   font-size: 48px;
   color: #37517e;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;  margin-bottom: 25px;
+  font-family: 'Lato Regular', sans-serif;  margin-bottom: 25px;
 }
 
 .pricing h4 sup {
@@ -1306,7 +1306,7 @@ font-family: 'Lato', sans-serif;  font-weight: 500;
   transition: none;
   font-size: 16px;
   font-weight: 500;
-  font-family: 'Lato', sans-serif;  transition: 0.3s;
+  font-family: 'Lato Regular', sans-serif;  transition: 0.3s;
   border: 1px solid white;
   background: black;
   color: #fff;
